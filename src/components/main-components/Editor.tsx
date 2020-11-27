@@ -28,7 +28,7 @@ export default class Editor extends React.Component {
     
     public render(){
         return(
-            <div id="editor" style={{transform: 'translate(25px, 100px)'}}>
+            <div id="editor" style={{transform: 'translate(25px, -390px)'}}>
                 <ReactAce style = {styles.editor}
                     mode="javascript"
                     theme="xcode"
