@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,EACI,QAAW,CACX,SACJ,CACA,KACI,kBAAmB,CACnB,kCACJ","file":"main.2958d15a.chunk.css","sourcesContent":["*{\n    margin: 0px;\n    padding: 0px;\n}\nbody{\n    background: #f1f1f1;\n    font-family: 'Noto Sans', sans-serif;\n}"]}
